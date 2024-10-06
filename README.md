@@ -5,6 +5,6 @@
 You can contact me through the following means
 Email: mattidungafa@gmail.com
 Facebook username: Matthew Idungafa
-Twitter username: kemsguy7
+Twitter: https://x.com/Kemsguy7
 instagram username: kemsguy7
 
