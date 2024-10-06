@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kemsguy
-- 👀 I am a budding fullstack software engineer
+- 👀 I am a full-stack Web Developer engineer
 - 🌱 I’m currently looking for remote jobs
  I’m also looking for startups to Collaborate on
 You can contact me through the following means
