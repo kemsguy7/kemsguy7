@@ -4,7 +4,7 @@
    startups to Collaborate with
 -You can contact me through the following:
 - Email: mattidungafa@gmail.com
-- Facebook username: https://web.facebook.com/matthew.idungafa.7
+- Facebook: https://web.facebook.com/matthew.idungafa.7
 - Twitter: https://x.com/Kemsguy7
 instagram username: kemsguy7
-
+- LinkedIn: https://www.linkedin.com/in/matthew-idungafa/
