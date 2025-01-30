@@ -2,6 +2,7 @@
 
 ## About Me
 - 👨‍💻 Full-stack Web Developer
+- Budding Smart Contract developer
 - 🔭 Currently available for remote jobs and startup collaborations
 
 ## Let's Connect!
