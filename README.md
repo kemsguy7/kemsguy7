@@ -22,7 +22,7 @@ I'm a passionate full-stack web developer with a growing expertise in blockchain
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,solidity,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,solidity,php,ocaml,mysql,git)](https://skillicons.dev)
 
 ### Stats
 
