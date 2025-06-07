@@ -8,6 +8,7 @@ I'm a passionate full-stack web developer with a growing expertise in blockchain
 
 * 🌍 I'm based in Nigeria
 * 💼 Currently available for remote jobs and startup collaborations
+* Open Source Contributor
 * 📚 Learning and growing in Web3 development
 * 🤝 Open to collaboration on interesting projects
 * 📫 Reach me at: mattidungafa@gmail.com
