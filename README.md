@@ -4,7 +4,7 @@ Hello World! ![](https://user-images.githubusercontent.com/18350557/176309783-07
 Full-stack Web & Smart Contract Developer
 -------------------------------------------------------------
 
-I'm a passionate full-stack web developer with a growing expertise in blockchain development. I love building innovative solutions and collaborating on exciting projects.
+I'm a passionate full-stack web developer and an open source contributor with a growing expertise in blockchain development. I love building innovative solutions and collaborating on exciting projects.
 
 * 🌍 I'm based in Nigeria
 * 💼 Currently available for remote jobs and startup collaborations
